@@ -1,0 +1,19 @@
+{
+  "app": {
+    "title": "Village Health Access",
+    "subtitle": "Reliable healthcare for every village"
+  },
+  "online": "Online",
+  "offline": "Offline",
+  "addPatient": "Add Patient",
+  "patients": "Patients",
+  "selectPatient": "Select Patient",
+  "symptoms": "Symptoms (comma separated)",
+  "submit": "Submit",
+  "order": "Order Medicine",
+  "requestAmbulance": "Request Ambulance",
+  "syncQueue": "Sync Queue",
+  "forceSync": "Force Sync",
+  "noPatients": "No patients yet",
+  "healthTips": "Health Tips"
+}
